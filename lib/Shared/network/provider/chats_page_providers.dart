@@ -1,12 +1,7 @@
 import 'dart:async';
-
-//Packages
 import 'package:chat_app/Model/users_model.dart';
 import 'package:flutter/material.dart';
-import 'package:get_it/get_it.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-
-//Services
 import '../../../Model/chat_model.dart';
 import '../../../Model/chats_massage_model.dart';
 import '../services/database_Services.dart';

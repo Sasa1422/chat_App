@@ -89,7 +89,7 @@ class UsersPageProvider extends ChangeNotifier {
           ),
         );
       }
-      PageChats _chatPage = PageChats(
+      ChatPage _chatPage = ChatPage(
         chat: Chat(
             uid: _doc!.id,
             currentUserUid: AuthProvider.User!.uid,
