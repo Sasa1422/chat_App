@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "73630274575",
+    "project_id": "chat-dc62e",
+    "storage_bucket": "chat-dc62e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73630274575:android:5fcb6b48328153e7ef7f7a",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKBpo5gbUYjw-s5iTM91-gtSdsqntv-O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73630274575:android:4ceed11c859ebb11ef7f7a",
+        "android_client_info": {
+          "package_name": "com.example.deiversapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKBpo5gbUYjw-s5iTM91-gtSdsqntv-O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
